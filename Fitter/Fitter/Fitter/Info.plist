@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs camera access to analyze food photos for nutritional information.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app needs photo library access to select food images for nutritional analysis.</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>This app needs access to your health data to track steps, calories burned, and exercise activities for better health insights.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>This app needs permission to save your exercise data, steps, and calories burned to Apple Health for comprehensive health tracking.</string>
+</dict>
+</plist>
